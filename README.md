@@ -1,3 +1,5 @@
+## Sorry, it was our release night and i worked overtime, so i couldn't impelement redux, made it with basic state management and its not responsive. Sorry for the inconvenience. - Berkay
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
